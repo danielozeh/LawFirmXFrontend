@@ -18,7 +18,7 @@ $ npm run start
 # generate static project
 $ npm run generate
 
-
+```
 
 IMAGES SCREENSHOT BELOW
 <img scr="https://lawfirmapi.danielozeh.com.ng/storage/app/public/addcasedetails.png">
@@ -40,7 +40,6 @@ IMAGES SCREENSHOT BELOW
 <img scr="https://lawfirmapi.danielozeh.com.ng/storage/app/public/updatecasetype.png">
 
 <img scr="https://lawfirmapi.danielozeh.com.ng/storage/app/public/updateprofilephoto.png">
-```
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
