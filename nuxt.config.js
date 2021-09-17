@@ -51,6 +51,10 @@ module.exports = {
       'vue-sweetalert2/nuxt'
   ],
 
+  generate: {
+    dir: 'public'
+  },
+
   // auth: {
 
   //   redirect: {
