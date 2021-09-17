@@ -27,15 +27,15 @@ module.exports = {
     ],
 
     link : [
-        {rel: 'icon', type:"image/png", sizes: "16x16", href:"images/favicon.png"},
+        {rel: 'icon', type:"image/png", sizes: "16x16", href:"/images/favicon.png"},
         
-        {rel: "stylesheet", href:"vendor/bootstrap-select/dist/css/bootstrap-select.min.css"},
+        {rel: "stylesheet", href:"/vendor/bootstrap-select/dist/css/bootstrap-select.min.css"},
 
-        {rel: "stylesheet", href:"vendor/animate/animate.min.css"},
-        {rel: "stylesheet", href:"vendor/aos/css/aos.min.css"},
-        {rel: "stylesheet", href:"vendor/perfect-scrollbar/css/perfect-scrollbar.css"},
-        {rel: "stylesheet", href:"vendor/metismenu/css/metisMenu.min.css"},
-	      {rel: "stylesheet", href:"css/style.css"},
+        {rel: "stylesheet", href:"/vendor/animate/animate.min.css"},
+        {rel: "stylesheet", href:"/vendor/aos/css/aos.min.css"},
+        {rel: "stylesheet", href:"/vendor/perfect-scrollbar/css/perfect-scrollbar.css"},
+        {rel: "stylesheet", href:"/vendor/metismenu/css/metisMenu.min.css"},
+	      {rel: "stylesheet", href:"/css/style.css"},
 
     ]
   },
