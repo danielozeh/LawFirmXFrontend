@@ -21,25 +21,25 @@ $ npm run generate
 ```
 
 IMAGES SCREENSHOT BELOW
-<img scr="https://lawfirmapi.danielozeh.com.ng/storage/app/public/addcasedetails.png">
+<img src="https://lawfirmapi.danielozeh.com.ng/storage/app/public/addcasedetails.png">
 
-<img scr="https://lawfirmapi.danielozeh.com.ng/storage/app/public/addcasetype.png">
+<img src="https://lawfirmapi.danielozeh.com.ng/storage/app/public/addcasetype.png">
 
-<img scr="https://lawfirmapi.danielozeh.com.ng/storage/app/public/allclients.png">
+<img src="https://lawfirmapi.danielozeh.com.ng/storage/app/public/allclients.png">
 
-<img scr="https://lawfirmapi.danielozeh.com.ng/storage/app/public/cases.png">
+<img src="https://lawfirmapi.danielozeh.com.ng/storage/app/public/cases.png">
 
-<img scr="https://lawfirmapi.danielozeh.com.ng/storage/app/public/casetype.png">
+<img src="https://lawfirmapi.danielozeh.com.ng/storage/app/public/casetype.png">
 
-<img scr="https://lawfirmapi.danielozeh.com.ng/storage/app/public/editcasedetails.png">
+<img src="https://lawfirmapi.danielozeh.com.ng/storage/app/public/editcasedetails.png">
 
-<img scr="https://lawfirmapi.danielozeh.com.ng/storage/app/public/searchbylastname.png">
+<img src="https://lawfirmapi.danielozeh.com.ng/storage/app/public/searchbylastname.png">
 
-<img scr="https://lawfirmapi.danielozeh.com.ng/storage/app/public/updatecasestage.png">
+<img src="https://lawfirmapi.danielozeh.com.ng/storage/app/public/updatecasestage.png">
 
-<img scr="https://lawfirmapi.danielozeh.com.ng/storage/app/public/updatecasetype.png">
+<img src="https://lawfirmapi.danielozeh.com.ng/storage/app/public/updatecasetype.png">
 
-<img scr="https://lawfirmapi.danielozeh.com.ng/storage/app/public/updateprofilephoto.png">
+<img src="https://lawfirmapi.danielozeh.com.ng/storage/app/public/updateprofilephoto.png">
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
