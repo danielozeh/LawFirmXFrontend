@@ -1,6 +1,6 @@
 <template>
 
-    <body>
+    <div>
 
         <!-- <Preloader/> -->
 
@@ -24,7 +24,7 @@
             Main wrapper end
         ***********************************-->
         
-    </body>
+    </div>
     
 </template>
 
